@@ -38,9 +38,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2013, text: 'Started learning Software Development at SMKN 4 Bandung', },
+  { year: 2016, text: 'Worked as a freelance developer', },
+  { year: 2020, text: 'Graduated from Institut Teknologi Harapan Bangsa with Information System major', },
+  { year: 2020, text: 'Worked at PT Bank Sinarmas Tbk as Digital Solution Front-end Developer', },
 ];

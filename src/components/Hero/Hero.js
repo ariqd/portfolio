@@ -16,13 +16,10 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam nam
-        labore atque voluptas officia velit nulla fuga ab quibusdam magni,
-        necessitatibus nobis delectus distinctio corrupti? Quidem excepturi
-        delectus quas veniam?
+        Hi, I'm Ariq, a Software Developer from Indonesia. Scroll down to know more about me!
       </SectionText>
       <Button onClick={() => (window.location = "https://google.com")}>
-        Learn More
+        Contact Me
       </Button>
     </LeftSection>
   </Section>
